@@ -10,7 +10,7 @@ distro==1.8.0
 dnspython==2.2.1
 exceptiongroup==1.0.0
 h11==0.14.0
-idna==3.4
+idna==3.7
 numpy==1.23.4
 oauthlib==3.2.2
 outcome==1.2.0
