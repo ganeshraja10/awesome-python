@@ -7,7 +7,7 @@ charset-normalizer==2.1.1
 constants==0.6.0
 Deprecated==1.2.13
 distro==1.8.0
-dnspython==2.2.1
+dnspython==2.6.1
 exceptiongroup==1.0.0
 h11==0.14.0
 idna==3.4
